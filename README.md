@@ -43,4 +43,4 @@ Price: The price of the used car in INR Lakhs.
 ## which proved to be very important in improving the score and acheiving a better rank on leaderboard.
 
 ## Finally in last section of the notebook I've used gradient boosting machine and xgboost to predict the cost.
-### I acheived a final rank of 24 using this solution among approx 400 participating candidates,it was a great learning experience for me.
+### I acheived a final rank of 34 using this solution among approx 400 participating candidates,it was a great learning experience for me.
